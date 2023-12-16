@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'vazir matn fd';
+    src: url(../fonts/vazirmatnFD/Vazirmatn-FD-Regular.woff2) format('woff2'),
+    url(../fonts/vazirmatnFD/Vazirmatn-FD-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.rtl{direction: rtl;}
+.ltr{direction: ltr;}
+
+body {
+    font-size: 18px;
+    font-family: 'vazir matn fd';
+    /* background-color: #333;
+    color: #ebeae8; */
+}

@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'yekan bakh';
+    src: url(../fonts/yekanbakh/Yekan.eot) format('embedded-opentype'),
+    url(../fonts/yekanbakh/Yekan.ttf) format('truetype'),
+    url(../fonts/yekanbakh/Yekan.woff) format('woff');
+    font-weight: normals;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'iran yekan medium';
+    src: url(../fonts/iranyekan/iranYekan.eot) format('embedded-opentype'),
+    url(../fonts/iranyekan/iranYekan.ttf) format('truetype'),
+    url(../fonts/iranyekan/iranYekan.woff) format('woff'),
+    url(../fonts/iranyekan/iranYekan.woff2) format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'iran nastaliq';
+    src: url(../fonts/nastaliq/IranNastaliq.eot) format('embedded-opentype'),
+    url(../fonts/nastaliq/IranNastaliq.woff) format('woff'),
+    url(../fonts/nastaliq/IranNastaliq.ttf) format('truetype'),
+    url(../fonts/nastaliq/IranNastaliq.woff2) format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'mononoki';
+    src: url(../fonts/mononoki/mononoki-Regular.ttf) format('truetype'),
+    url(../fonts/mononoki/mononoki-Regular.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'droid sans';
+    src: url(../fonts/droidsans/gstatic_droidsans.woff2) format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'vazir matn';
+    src: url(../fonts/vazirmatn/Vazirmatn-Regular.woff2) format('woff2'),
+    url(../fonts/vazirmatn/Vazirmatn-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'vazir matn fd';
+    src: url(../fonts/vazirmatnFD/Vazirmatn-FD-Regular.woff2) format('woff2'),
+    url(../fonts/vazirmatnFD/Vazirmatn-FD-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'iran yekan thin';
+    src: url(../fonts/iranyekan2/iranyekanwebregular.eot) format('embedded-opentype'),
+    url(../fonts/iranyekan2/iranyekanwebregular.woff) format('woff'),
+    url(../fonts/iranyekan2/iranyekanwebregular.ttf) format('truetype'),
+    url(../fonts/iranyekan2/iranyekanwebregular.woff2) format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.yekanbakh {font-family: 'yekan bakh';}
+.iranyekan-thin {font-family: 'iran yekan thin';}
+.nastaliq {font-family: 'iran nastaliq';}
+.mononoki {font-family: 'mononoki';}
+.droidsans {font-family: 'droid sans';}
+.vazirmatn {font-family: 'vazir matn';}
+.vazirmatn-fd {font-family: 'vazir matn fd';}
+.iranyekan-medium {font-family: 'iran yekan medium';}
+
